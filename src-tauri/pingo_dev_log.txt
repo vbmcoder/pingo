@@ -1,0 +1,176 @@
+[1770561751] [Pingo] init_app started
+[1770561751] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770561751] [Pingo] init_app started
+[1770561751] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770561751] [Pingo] Signaling event forwarder started on port 45678
+[1770561759] [Pingo] discovery loop heartbeat
+[1770561760] [Pingo] signaling loop heartbeat
+[1770561761] [Pingo] init_app still running after 10s for device c12ce721c571135d683240011197226f
+[1770561761] [Pingo] init_app still running after 10s for device c12ce721c571135d683240011197226f
+[1770561767] [Pingo] discovery loop heartbeat
+[1770561771] [Pingo] signaling loop heartbeat
+[1770561776] [Pingo] discovery loop heartbeat
+[1770561781] [Pingo] signaling loop heartbeat
+[1770561785] [Pingo] discovery loop heartbeat
+[1770561791] [Pingo] signaling loop heartbeat
+[1770561793] [Pingo] discovery loop heartbeat
+[1770561806] [Pingo] init_app started
+[1770561806] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770561806] [Pingo] init_app started
+[1770561806] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770561806] [Pingo] Signaling event forwarder started on port 45678
+[1770561814] [Pingo] discovery loop heartbeat
+[1770561815] [Pingo] signaling loop heartbeat
+[1770561816] [Pingo] init_app still running after 10s for device c12ce721c571135d683240011197226f
+[1770561816] [Pingo] init_app still running after 10s for device c12ce721c571135d683240011197226f
+[1770561822] [Pingo] discovery loop heartbeat
+[1770561825] [Pingo] signaling loop heartbeat
+[1770561831] [Pingo] discovery loop heartbeat
+[1770561836] [Pingo] signaling loop heartbeat
+[1770561839] [Pingo] discovery loop heartbeat
+[1770561846] [Pingo] signaling loop heartbeat
+[1770561848] [Pingo] discovery loop heartbeat
+[1770561952] [Pingo] init_app started
+[1770561952] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770561952] [Pingo] init_app started
+[1770561952] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770561952] [Pingo] Signaling event forwarder started on port 45678
+[1770561954] [Pingo] init_app started
+[1770561954] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770561954] [Pingo] init_app started
+[1770561954] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770561954] [Pingo] Signaling event forwarder started on port 45678
+[1770561956] [Pingo] init_app started
+[1770561956] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770561956] [Pingo] init_app started
+[1770561956] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770561956] [Pingo] Signaling event forwarder started on port 45678
+[1770561958] [Pingo] init_app started
+[1770561958] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770561958] [Pingo] init_app started
+[1770561958] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770561958] [Pingo] Signaling event forwarder started on port 45678
+[1770561961] [Pingo] init_app started
+[1770561961] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770561961] [Pingo] init_app started
+[1770561961] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770561961] [Pingo] Signaling event forwarder started on port 45678
+[1770561963] [Pingo] init_app started
+[1770561963] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770561963] [Pingo] init_app started
+[1770561963] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770561963] [Pingo] Signaling event forwarder started on port 45678
+[1770561965] [Pingo] init_app started
+[1770561965] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770561965] [Pingo] init_app started
+[1770561965] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770561965] [Pingo] Signaling event forwarder started on port 45678
+[1770561967] [Pingo] init_app started
+[1770561967] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770561967] [Pingo] init_app started
+[1770561967] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770561967] [Pingo] Signaling event forwarder started on port 45678
+[1770565602] [Pingo] init_app started
+[1770565602] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565602] [Pingo] init_app started
+[1770565602] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565602] [Pingo] Signaling event forwarder started on port 45678
+[1770565605] [Pingo] init_app started
+[1770565605] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565605] [Pingo] init_app started
+[1770565605] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565605] [Pingo] Signaling event forwarder started on port 45678
+[1770565607] [Pingo] init_app started
+[1770565607] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565607] [Pingo] init_app started
+[1770565607] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565607] [Pingo] Signaling event forwarder started on port 45678
+[1770565609] [Pingo] init_app started
+[1770565609] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565609] [Pingo] init_app started
+[1770565609] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565609] [Pingo] Signaling event forwarder started on port 45678
+[1770565611] [Pingo] init_app started
+[1770565611] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565611] [Pingo] init_app started
+[1770565611] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565611] [Pingo] Signaling event forwarder started on port 45678
+[1770565614] [Pingo] init_app started
+[1770565614] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565614] [Pingo] init_app started
+[1770565614] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565614] [Pingo] Signaling event forwarder started on port 45678
+[1770565616] [Pingo] init_app started
+[1770565616] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565616] [Pingo] init_app started
+[1770565616] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565616] [Pingo] Signaling event forwarder started on port 45678
+[1770565618] [Pingo] init_app started
+[1770565618] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565618] [Pingo] init_app started
+[1770565618] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565618] [Pingo] Signaling event forwarder started on port 45678
+[1770565620] [Pingo] init_app started
+[1770565620] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565620] [Pingo] init_app started
+[1770565620] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565620] [Pingo] Signaling event forwarder started on port 45678
+[1770565623] [Pingo] init_app started
+[1770565623] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565623] [Pingo] init_app started
+[1770565623] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565623] [Pingo] Signaling event forwarder started on port 45678
+[1770565625] [Pingo] init_app started
+[1770565625] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565625] [Pingo] init_app started
+[1770565625] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565625] [Pingo] Signaling event forwarder started on port 45678
+[1770565627] [Pingo] init_app started
+[1770565627] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565627] [Pingo] init_app started
+[1770565627] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565627] [Pingo] Signaling event forwarder started on port 45678
+[1770565629] [Pingo] init_app started
+[1770565629] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565629] [Pingo] init_app started
+[1770565629] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565629] [Pingo] Signaling event forwarder started on port 45678
+[1770565632] [Pingo] init_app started
+[1770565632] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565632] [Pingo] init_app started
+[1770565632] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565632] [Pingo] Signaling event forwarder started on port 45678
+[1770565634] [Pingo] init_app started
+[1770565634] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565634] [Pingo] init_app started
+[1770565634] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565634] [Pingo] Signaling event forwarder started on port 45678
+[1770565636] [Pingo] init_app started
+[1770565636] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565636] [Pingo] init_app started
+[1770565636] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565636] [Pingo] Signaling event forwarder started on port 45678
+[1770565638] [Pingo] init_app started
+[1770565638] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565638] [Pingo] init_app started
+[1770565638] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565638] [Pingo] Signaling event forwarder started on port 45678
+[1770565641] [Pingo] init_app started
+[1770565641] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565641] [Pingo] init_app started
+[1770565641] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565641] [Pingo] Signaling event forwarder started on port 45678
+[1770565643] [Pingo] init_app started
+[1770565643] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565643] [Pingo] init_app started
+[1770565643] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770565643] [Pingo] Signaling event forwarder started on port 45678
+[1770566068] [Pingo] init_app started
+[1770566072] [Pingo] init_app started
+[1770566073] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770566075] [Pingo] init_app started
+[1770566076] [Pingo] init_app complete. device_id=c12ce721c571135d683240011197226f
+[1770566079] [Pingo] init_app started
+[1770566081] [Pingo] init_app started
+[1770566083] [Pingo] init_app started
+[1770566085] [Pingo] init_app started

@@ -1,0 +1,61 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Node / frontend
+node_modules/
+.pnpm-store/
+dist/
+dist-ssr/
+*.local
+
+# Editor directories and files
+.vscode/
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Tauri / Rust
+/target/
+**/target/
+**/*.rs.bk
+**/*.log
+**/build/
+Cargo.lock
+**/src-tauri/tauri.conf.json
+**/src-tauri/bundle/*
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# JetBrains
+*.iml
+out/
+
+# Optional: environment files
+.env
+.env.local
+.env.*.local
+
+# Ignore generated frontend cache
+/.vite/
+
+# Tauri dev hosts
+.vite
+
+# ensure any others don't accidentally get committed
+
+
